@@ -1,7 +1,11 @@
 # json-sample
 A sample json project.
+
+
 INTRODUCTION:
 This project contains the CRUD operations on JsonPowerDB. This is a sample project with basics operations such as add, delete and update.
+
+
 BENEFITS OF USING JsonPowerDB
 JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS_ with many USPs.
 •	Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
@@ -16,3 +20,5 @@ JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS_ 
 •	Standardisation of API development framework makes the development process easy, more readable, and less error prone.
 •	Multiple security layers.
 •	Nimble, Simple to use, In Memory, Real-time DBMS.
+
+i have attached a pdf which contains the snapshots of the operations. Do refer to it.
